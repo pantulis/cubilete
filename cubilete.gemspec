@@ -8,5 +8,5 @@ Gem::Specification.new do |s|
   s.email       = 'pantulis@gmail.com'
   s.files       = ["lib/cubilete.rb","lib/cubilete/cubilete.rb","lib/cubilete/dado.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/hola'
+    'http://rubygems.org/gems/cubilete'
 end
